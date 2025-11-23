@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className='text-center bg-[#171c21] text-white p-4'>
         Copyright © Society of Alumni Affairs, IIT Jodhpur<br/>
-        Website designed by Akhil Dhyani
+        Website designed by team at <a href="https://ignedia.tech" className='underline'>Ignedia.tech</a>
     </div>
   )
 }
